@@ -1,19 +1,22 @@
-# nonIAP_Sample_Unity_BlockKuzushi
+# ブロック崩しの Unity プロジェクト
 
-![アプリのショートプレイデモ](DocImage/Demo-nonIAP-unity.gif "アプリのショートプレイデモ")
+![アプリのショートプレイデモ](DocImage/Demo-nonIAP-unity.gif "アプリのショートプレイデモ")  
+ [Youtube でプレイデモ動画](https://youtu.be/kytPGABPxFI) もご覧になれます。
+
 ![タイトル画面](DocImage/SS04-Title(stage1complete).png "タイトル画面")
 ![GameStage 3](DocImage/SS08-Stage3.png "GameStage 3")
 ![Gameover](DocImage/SS09-Gameover(Stage3).png "Gameover")
 ![Stage Complete](DocImage/SS06-Stage2Complete.png "Stage Complete")
+
+
+- この Unity プロジェクトは [いますぐ始めるアプリ内課金 - itemstore BLOG](http://blog.item-store.net/archive/category/いますぐ始めるアプリ内課金) の教材サンプルです。  
+ブロック崩しのほかに、アプリ内課金の実装方法についても説明しているので、よろしければご覧ください。
+- [GooglePlay のブロック崩し（教材）のページ](https://play.google.com/store/apps/details?id=com.SakuraCrowd.test_nonIAP_Unity_BlockKuzushi) から Android 端末(4.2以上)にダウンロードしてプレイできます。  
+次の QR コードからも GooglePlay のインストールページにアクセスできます。  
 ![GooglePlay QR code](DocImage/BlockKuzushiGooglePlayQR.png "GooglePlay QR code")
-
-
+- この Unity プロジェクトにはアプリ内課金の機能は含まれていません。
+- この Unity プロジェクトはライセンスに基づき利用していただいてかまいませんが、私は一切の責任を負わず、ご質問やご要望にも対応しないことをご理解ください。
 - 開発環境は Unity 2017.2.0f3 (64bit) です。
-- このプロジェクトは [いますぐ始めるアプリ内課金 - itemstore BLOG](http://blog.item-store.net/archive/category/いますぐ始めるアプリ内課金) の教材サンプルです。ブロック崩しのほかに、アプリ内課金の実装方法についても説明しているので、よろしければご覧ください。
-- [GooglePlay のブロック崩し（教材）](https://play.google.com/store/apps/details?id=com.SakuraCrowd.test_nonIAP_Unity_BlockKuzushi) から Android 端末(4.2以上)にダウンロードしてプレイできます。上の QR コードからも GooglePlay のインストールページにアクセスできます。
-- [プレイデモ動画](https://youtu.be/kytPGABPxFI) もご覧になれます。
-- このプロジェクトにはアプリ内課金の機能は含まれていません。
-- ライセンスに基づき利用していただいてかまいませんが、私は一切の責任を負わず、ご質問やご要望にも対応しないことをご理解ください。
 
 # Unity での開き方
 1. Clone or Download などで sample_blockkuzushi を丸ごとダウンロードします。
