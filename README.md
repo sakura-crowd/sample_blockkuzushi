@@ -5,7 +5,7 @@
 ![GameStage 3](DocImage/SS08-Stage3.png "GameStage 3")
 ![Gameover](DocImage/SS09-Gameover(Stage3).png "Gameover")
 ![Stage Complete](DocImage/SS06-Stage2Complete.png "Stage Complete")
-![GooglePlay QR code](DocImage/BlockKuzushi GooglePlay QR.png "GooglePlay QR code)
+![GooglePlay QR code](DocImage/BlockKuzushiGooglePlayQR.png "GooglePlay QR code")
 
 
 - 開発環境は Unity 2017.2.0f3 (64bit) です。
